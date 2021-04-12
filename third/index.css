@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-big {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .row-two {
+    background-color: #ebe7e7;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .row-one-div {
+    width: 50px;
+    height: 50px;
+    background-color: #458cdd;
+  }
+  
+  .row-two {
+    background-color: rgb(247, 239, 239);
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .row-three {
+    background-color: #4c94e6;
+  }
+  
+  .row-four {
+    background-color: #51e6c5;
+  }
+  
+  .row-five {
+    background-color: #bae78c;
+  }
+  
+  .row-six {
+    background-color: #ecdb1d;
+  }
